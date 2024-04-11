@@ -1,0 +1,3 @@
+gcc main.c shop.c -o shopApp
+
+./shopApp
